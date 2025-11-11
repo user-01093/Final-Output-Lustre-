@@ -210,6 +210,7 @@ a{
     width: 75%;
     img{
         border-radius: 5%;
+        justify-self: center;
     }
 }
 .awards{
@@ -593,4 +594,5 @@ h3 a{
     }
 
 }
+
 
